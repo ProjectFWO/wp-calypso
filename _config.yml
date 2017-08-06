@@ -1,0 +1,13 @@
+---
+title: whitehack
+timezone: Asia/Rangoon
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: http://whitehack.ga
+name: WhiteHack
+description: Make to Move Hack for Growth
